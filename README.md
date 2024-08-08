@@ -9,6 +9,8 @@
 #### - End user can join/view/leave events.
 #### - End user can view event calendar.
 
+
+
 ### 2)Event Organizer Role
 #### - End User can requested to be event organizer account.
 #### - Event Organizer can view and edit their profile.
@@ -16,6 +18,8 @@
 #### - Event Organizer can organize events.
 #### - Event Organizer can join/view/leave/edit events.
 #### - Event Organizer can view event calendar.
+
+
 
 ### 3)Administrator Role
 #### - Administrator account is unique.
