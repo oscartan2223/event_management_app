@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "411542835831",
+    "firebase_url": "https://mae-assignment-f43cb-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "mae-assignment-f43cb",
+    "storage_bucket": "mae-assignment-f43cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411542835831:android:b515fcd2e92c219c0aac72",
+        "android_client_info": {
+          "package_name": "com.example.assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1F3UyRFsOOsHWA0Lmu-TK7Gwt9v7rHR4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
